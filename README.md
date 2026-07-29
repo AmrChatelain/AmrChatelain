@@ -1,20 +1,35 @@
-# 💫 About Me:
-👋 Hi, I'm Amr Chatelain<br><br>🌐 Junior Full-Stack Developer building responsive and scalable web applications.<br><br>💻 I work with modern technologies across the stack, turning ideas into real products while continuously improving my problem-solving and architectural thinking.<br><br>🚀 Always a student of the craft — because there’s always more to learn.<br><br>📫 Open to collaboration and new opportunities.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=190&section=header&text=AMR%20CHATELAIN&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=TECH%20ANNOTATOR%20%C2%B7%20AI%20EVALUATION%20SPECIALIST&descAlignY=64&descSize=17&descColor=C6A664" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&pause=1500&color=C6A664&center=true&vCenter=true&width=680&lines=Ex-Full-Stack+Web+Developer;Now+Judging+AI%2C+Not+Just+Building+With+It" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amr_m.chatelain/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-chatelain-webdeveloper/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Contact@achatelain.eu) 
+<br/>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+Former full-stack web developer, now working on the human side of AI quality — annotating training data and evaluating model outputs for accuracy, safety, and correctness. Technical background brings real judgment to code-related evaluations, not surface-level review.
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AmrChatelain&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AmrChatelain&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrChatelain&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmrChatelain&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://www.linkedin.com/in/amr-chatelain-webdeveloper/"><img src="https://img.shields.io/badge/LinkedIn-C6A664?style=for-the-badge&logo=linkedin&logoColor=0d0d0d" /></a>
+  <a href="mailto:Contact@achatelain.eu"><img src="https://img.shields.io/badge/Email-C6A664?style=for-the-badge&logo=gmail&logoColor=0d0d0d" /></a>
+  <a href="https://www.instagram.com/amr_m.chatelain/"><img src="https://img.shields.io/badge/Instagram-C6A664?style=for-the-badge&logo=instagram&logoColor=0d0d0d" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=AmrChatelain&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
+
+<h3 align="center">Focus</h3>
+<p align="center">
+Data Annotation&nbsp;&nbsp;·&nbsp;&nbsp;Model Evaluation&nbsp;&nbsp;·&nbsp;&nbsp;Output &amp; Prompt Review&nbsp;&nbsp;·&nbsp;&nbsp;Quality Assurance&nbsp;&nbsp;·&nbsp;&nbsp;Python&nbsp;&nbsp;·&nbsp;&nbsp;SQL
+</p>
+
+<br/>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmrChatelain&show_icons=true&hide_border=true&hide_title=true&bg_color=0d0d0d&title_color=C6A664&icon_color=C6A664&text_color=e8e8e8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrChatelain&layout=compact&hide_border=true&hide_title=true&bg_color=0d0d0d&title_color=C6A664&text_color=e8e8e8" />
+</p>
