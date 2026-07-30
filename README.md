@@ -30,6 +30,6 @@ Data Annotation&nbsp;&nbsp;·&nbsp;&nbsp;Model Evaluation&nbsp;&nbsp;·&nbsp;&nb
 <br/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AmrChatelain&show_icons=true&hide_border=true&hide_title=true&bg_color=0d0d0d&title_color=C6A664&icon_color=C6A664&text_color=e8e8e8" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrChatelain&layout=compact&hide_border=true&hide_title=true&bg_color=0d0d0d&title_color=C6A664&text_color=e8e8e8" />
+  <a href="https://github.com/AmrChatelain"><img src="https://img.shields.io/github/followers/AmrChatelain?style=for-the-badge&logo=github&logoColor=0d0d0d&label=FOLLOWERS&color=C6A664" /></a>
+  <a href="https://github.com/AmrChatelain?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAmrChatelain&label=REPOSITORIES&query=%24.public_repos&color=C6A664&style=for-the-badge&logo=github&logoColor=0d0d0d" /></a>
 </p>
